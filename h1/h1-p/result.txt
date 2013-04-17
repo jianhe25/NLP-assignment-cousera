@@ -1,0 +1,24 @@
+STAT5A O
+mutations O
+in O
+the O
+Src I-GENE
+homology I-GENE
+2 I-GENE
+( I-GENE
+SH2 I-GENE
+) I-GENE
+and O
+SH3 I-GENE
+domains I-GENE
+did O
+not O
+alter O
+the O
+BTK O
+- O
+mediated O
+tyrosine O
+phosphorylation O
+. O
+

@@ -1,0 +1,309 @@
+0 * * 0.0 BACKGROUND
+
+
+1 * I-GENE 0.0 :
+
+
+1 * O -9.47528660431 :
+
+
+2 I-GENE I-GENE -8.8255536138 Ischemic
+
+
+2 I-GENE O -6.89559310825 Ischemic
+
+
+2 O I-GENE -20.8869025167 Ischemic
+
+
+2 O O -15.4892574647 Ischemic
+
+
+3 I-GENE I-GENE 0.0 heart
+
+
+3 I-GENE O -20.8997507305 heart
+
+
+3 O I-GENE 0.0 heart
+
+
+3 O O -18.4221021991 heart
+
+
+4 I-GENE I-GENE -11.1243361271 disease
+
+
+4 I-GENE O -9.21978294628 disease
+
+
+4 O I-GENE -32.3307680262 disease
+
+
+4 O O -26.857668186 disease
+
+
+5 I-GENE I-GENE -20.862377893 is
+
+
+5 I-GENE O -19.4234760934 is
+
+
+5 O I-GENE -20.0172296945 is
+
+
+5 O O -16.9712348868 is
+
+
+6 I-GENE I-GENE 0.0 the
+
+
+6 I-GENE O -25.8701426145 the
+
+
+6 O I-GENE 0.0 the
+
+
+6 O O -22.0399308474 the
+
+
+7 I-GENE I-GENE -8.72644085426 primary
+
+
+7 I-GENE O -3.96583036517 primary
+
+
+7 O I-GENE -33.5507014017 primary
+
+
+7 O O -25.2215442532 primary
+
+
+8 I-GENE I-GENE -19.8507769813 cause
+
+
+8 I-GENE O -17.8353649049 cause
+
+
+8 O I-GENE -16.1495714745 cause
+
+
+8 O O -12.5270663899 cause
+
+
+9 I-GENE I-GENE 0.0 of
+
+
+9 I-GENE O -25.9136559738 of
+
+
+9 O I-GENE 0.0 of
+
+
+9 O O -21.5069339298 of
+
+
+10 I-GENE I-GENE -6.55998793559 morbidity
+
+
+10 I-GENE O -4.02033145626 morbidity
+
+
+10 O I-GENE -30.8512515655 morbidity
+
+
+10 O O -24.7430484267 morbidity
+
+
+11 I-GENE I-GENE 0.0 and
+
+
+11 I-GENE O -18.4518634955 and
+
+
+11 O I-GENE 0.0 and
+
+
+11 O O -15.3645189903 and
+
+
+12 I-GENE I-GENE -6.22649632711 mortality
+
+
+12 I-GENE O -4.41941154064 mortality
+
+
+12 O I-GENE -24.3753450175 mortality
+
+
+12 O O -18.9997135716 mortality
+
+
+13 I-GENE I-GENE 0.0 among
+
+
+13 I-GENE O -16.6520348182 among
+
+
+13 O I-GENE 0.0 among
+
+
+13 O O -14.2972620059 among
+
+
+14 I-GENE I-GENE 0.0 diabetics
+
+
+14 I-GENE O -8.9602717508 diabetics
+
+
+14 O I-GENE 0.0 diabetics
+
+
+14 O O -22.4733167973 diabetics
+
+
+15 I-GENE I-GENE 0.0 ,
+
+
+15 I-GENE O 0.0 ,
+
+
+15 O I-GENE 0.0 ,
+
+
+15 O O 0.0 ,
+
+
+16 I-GENE I-GENE -6.75488827459 especially
+
+
+16 I-GENE O -4.21236269144 especially
+
+
+16 O I-GENE -7.81429325688 especially
+
+
+16 O O -3.42814573206 especially
+
+
+17 I-GENE I-GENE 0.0 those
+
+
+17 I-GENE O -17.0045360992 those
+
+
+17 O I-GENE 0.0 those
+
+
+17 O O -12.8241736692 those
+
+
+18 I-GENE I-GENE 0.0 who
+
+
+18 I-GENE O -8.54532789874 who
+
+
+18 O I-GENE 0.0 who
+
+
+18 O O -20.5852846085 who
+
+
+19 I-GENE I-GENE 0.0 became
+
+
+19 I-GENE O -8.82674035817 became
+
+
+19 O I-GENE 0.0 became
+
+
+19 O O -16.8937831592 became
+
+
+20 I-GENE I-GENE 0.0 ill
+
+
+20 I-GENE O -10.9061818999 ill
+
+
+20 O I-GENE 0.0 ill
+
+
+20 O O -19.2546371604 ill
+
+
+21 I-GENE I-GENE 0.0 at
+
+
+21 I-GENE O 0.0 at
+
+
+21 O I-GENE 0.0 at
+
+
+21 O O 0.0 at
+
+
+22 I-GENE I-GENE -11.1243361271 a
+
+
+22 I-GENE O -6.67983489103 a
+
+
+22 O I-GENE -12.1837411093 a
+
+
+22 O O -5.89561793165 a
+
+
+23 I-GENE I-GENE -19.6837228967 young
+
+
+23 I-GENE O -16.1981987835 young
+
+
+23 O I-GENE -16.2986266429 young
+
+
+23 O O -10.1158607005 young
+
+
+24 I-GENE I-GENE 0.0 age
+
+
+24 I-GENE O -26.693982919 age
+
+
+24 O I-GENE 0.0 age
+
+
+24 O O -19.7270000172 age
+
+
+25 I-GENE I-GENE 0.0 .
+
+
+25 I-GENE O -8.67258967835 .
+
+
+25 O I-GENE 0.0 .
+
+
+25 O O -27.6153727362 .
+
+
+26 I-GENE I-GENE -6.01839065316 $$$$
+
+
+26 I-GENE O -3.97575230383 $$$$
+
+
+26 O I-GENE -15.7503853138 $$$$
+
+
+26 O O -12.1700568845 $$$$
+
+
